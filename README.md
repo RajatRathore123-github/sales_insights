@@ -8,8 +8,12 @@ A data analysis project made using PowerBI and SQL, where the revenues of a cons
 
 SQL, PowerBI
 
+## Create Data Model (build relationships between tables)
 
-## Screenshots
+![](/Model_view.png)
+
+
+## PowerBI Report
 
 ![](/Sales_insights_pic.png)
 
